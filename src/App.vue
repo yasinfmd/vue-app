@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Merhaba Vuejs
+    Merhaba Vuejs !
   </div>
 </template>
 
@@ -8,8 +8,7 @@
 
 export default {
   name: 'App',
-  components: {
-  }
+
 }
 </script>
 
